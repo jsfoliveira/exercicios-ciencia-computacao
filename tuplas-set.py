@@ -1,3 +1,4 @@
+# $python3
 # Tuplas (tuple)
 # São similares a listas, porém não podem ser modificados durante a execução do programa.
 
