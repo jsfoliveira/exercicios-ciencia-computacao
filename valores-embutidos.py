@@ -1,3 +1,4 @@
+# $python3
 # para verificar o tipo da variável a = 5, digite o comando type(a), vai imprimir <class 'int'>
 
 # para verificar o tipo da variável a = 5.0, digite o comando type(a), vai imprimir <class 'float'>
